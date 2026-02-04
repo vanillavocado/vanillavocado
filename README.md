@@ -4,7 +4,7 @@
 
 ---
 <h1 align="center"> 🦐Hello there! This is Vanilla</h1>
-<h3 align="center"> UI & UX Designer in Training | 2D & 3D | Game Development</h3>
+<h3 align="center"> UI & UX Designer in Training | 2D & 3D Artist | Game Development</h3>
 
 
 
